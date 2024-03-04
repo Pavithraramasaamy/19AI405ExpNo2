@@ -82,7 +82,7 @@ print(traversedpath)
 
 ```
 <hr>
-<h3>Sample Input</h3>
+<h3>Input</h3>
 <hr>
 8 9 <BR>
 A B <BR>
@@ -95,14 +95,14 @@ D F <BR>
 G F <BR>
 F H <BR>
 <hr>
-<h3>Sample Output</h3>
+<h3>Output</h3>
 <hr>
 ['A', 'B', 'E', 'D', 'C', 'G', 'F', 'H']
 
 <hr>
 
 <hr>
-<h3>Sample Input</h3>
+<h3>Input</h3>
 <hr>
 5 5 <BR>
 0 1 <BR>
@@ -111,7 +111,7 @@ F H <BR>
 2 3 <BR>
 2 4 <BR>
 <hr>
-<h3>Sample Output</h3>
+<h3>Output</h3>
 <hr>
 ['0', '1', '2', '3', '4']
 

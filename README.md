@@ -1,4 +1,4 @@
-![image](https://github.com/Pavithraramasaamy/19AI405ExpNo2/assets/118596964/3c432fd2-1b26-476a-99e9-80d704c77c22)<h1>EXP NO - 2 : Implement Depth First Search Traversal of a Graph</h1> 
+<h1>EXP NO - 2 : Implement Depth First Search Traversal of a Graph</h1> 
 <h3>Name: PAVITHRA R</h3>
 <h3>Register Number: 212222230106</h3>
 <H3>Aim:</H3>
